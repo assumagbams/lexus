@@ -5,5 +5,7 @@ deploy python app
 deploy sql
 =======
 deploy in dev environment
->>>>>>> stage
+
 deployment5 master
+deployment4
+
